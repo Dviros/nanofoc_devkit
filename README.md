@@ -64,7 +64,8 @@ Purchase Link: https://store.binaris.io/products/nanofoc-devkit
 | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | 
 | 100nF | C1, C2, C4, C8, C12 | 0603 | 5 | https://eu.mouser.com/ProductDetail/KEMET/C0603C104K8RAC | 0,55 € |
 | 4.7uF | C5, C6 | 0805 | 2 | https://eu.mouser.com/ProductDetail/TDK/C2012X7R1A475K125AC | 0,46 € |
-| 10uF | C7, C13 | 0603 | 2 | https://eu.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10A106KP8NNWC | 0,24 € |
+| 1uF | C7, C13 | 0603 | 2 | https://eu.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10A106KP8NNWC | 0,24 € |
+| 10uf | C3 | 0603 | 1 | https://eu.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10A106KP8NNWC | 0,24 € |
 | 22uf | C9 | 0805 | 1 | https://eu.mouser.com/ProductDetail/Murata-Electronics/GRM21BC81C226ME44L | 0,39 € |
 | 22uf | C11 | 0603 | 1 | https://eu.mouser.com/ProductDetail/Murata-Electronics/GRM188R61A226ME15J | 0,17 € |
 | 100K | R1-R6 | 0603 | 6 | https://eu.mouser.com/ProductDetail/Bourns/CMP0603-FX-1003ELF | 1,20 € |
@@ -85,6 +86,7 @@ Purchase Link: https://store.binaris.io/products/nanofoc-devkit
 | ST1L05CPU33R LDO | IC1 | DFN6 | 1 | https://www.mouser.com/ProductDetail/STMicroelectronics/ST1L05CPU33R | 1,18 € |
 | G-Switch_GT-USB-7010ASV | P1 | 7010ASV | 1 | https://www.mouser.com/ProductDetail/GCT/USB4105-GF-A | 0,75 € | 
 | | | | **38** | | **22,44 € / 23.50 $** |
+
 
  
 ### Power Options:
