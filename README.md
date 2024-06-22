@@ -64,7 +64,7 @@ Purchase Link: https://store.binaris.io/products/nanofoc-devkit
 | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | 
 | 100nF | C1, C2, C4, C8, C12 | 0603 | 5 | https://eu.mouser.com/ProductDetail/KEMET/C0603C104K8RAC | 0,55 € |
 | 4.7uF | C5, C6 | 0805 | 2 | https://eu.mouser.com/ProductDetail/TDK/C2012X7R1A475K125AC | 0,46 € |
-| 1uF | C7, C13 | 0603 | 2 | https://eu.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10A106KP8NNWC | 0,24 € |
+| 1uF | C7, C13 | 0603 | 2 | https://eu.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10A105KP8NNNC | 0,24 € |
 | 10uf | C3 | 0603 | 1 | https://eu.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL10A106KP8NNWC | 0,24 € |
 | 22uf | C9 | 0805 | 1 | https://eu.mouser.com/ProductDetail/Murata-Electronics/GRM21BC81C226ME44L | 0,39 € |
 | 22uf | C11 | 0603 | 1 | https://eu.mouser.com/ProductDetail/Murata-Electronics/GRM188R61A226ME15J | 0,17 € |
